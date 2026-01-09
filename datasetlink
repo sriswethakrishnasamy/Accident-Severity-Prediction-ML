@@ -1,1 +1,5 @@
+This Dataset contains 33 Features covering over a 1.8million records. this dataset consists of various features like,
+Accidental / Longitude, Accident_Severity, Number_of_Vehicles, Number_of_Casualties, Light_Conditions, Weather_Conditions, Road_Surface_Conditions, Year
+This Dataset can be used for Analysis as well as Classification tasks
+
 https://www.kaggle.com/code/piyushkr303/accident-severity-prediction-98-5-accuracy/input
